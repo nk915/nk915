@@ -5,7 +5,9 @@
 
 <p>
   👋&nbsp; Hi there! I'm <b>Cloud Service Developer</b> using NCloud and AWS. 🚀<br/>
-  Sometimes I develop cross-platforms like C# Blazor or Flutter, but prefer native. 💖<br/><br/>
+  Sometimes I develop cross-platforms like C# Blazor or Flutter, but prefer native. 💖<br/>
+  In the past, I worked as a network expert while developing NAC solutions.<br/><br/>
+  
   I enjoy running, health club, dive and travel. ⛰ 🏄<br/>
   I hope to develop every beautiful things. ✨ <br/><br/>
 </p>
@@ -22,6 +24,11 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=white"/>
   <img src="https://img.shields.io/badge/Istio-Istio-lightgrey?style=flat-square"/>
+</p>
+<p>
+  <img src="https://img.shields.io/badge/ElasticSearch-005571?style=flat-square&logo=ElasticSearch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=Prometheus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=Grafana&logoColor=white"/>
 </p>
   
 #### Languages
