@@ -11,26 +11,45 @@
 </p>
 
 ### 💪 Skills
-#### Platforms & Languages
-<p>
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
-  <img src="https://img.shields.io/badge/iOS-000000?style=flat-square&logo=iOS&logoColor=white"/>
-  <img src="https://img.shields.io/badge/ReactNative-61DAFB?style=flat-square&logo=React&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Cordova-E8E8E8?style=flat-square&logo=Apache%20Cordova&logoColor=black"/>
+#### Cloud Env
+<p> 
+  <img src="https://img.shields.io/badge/AmazonAWS-232F3E?style=flat-square&logo=AmazonAWS&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ncloud-NaverCloud-green?style=flat-square"/>
 </p>
 <p>
-  <img src="https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=Kotlin&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=Swift&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=Ansible&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=Terraform&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Istio-Istio-lightgrey?style=flat-square"/>
+</p>
+  
+#### Languages
+<p>
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=Go&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C++&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSharp-239120?style=flat-square&logo=CSharp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=Vue.JS&logoColor=white"/>
+</p>
+
+#### Network
+<p>
+  IPv4: ARP (Spoofing), TCP, SIP, DNS, LLMNR, SSL
+  IPv6: ICMPv6
 </p>
 
 #### Tools
 <p>
-  <img src="https://img.shields.io/badge/ReactiveX-B7178C?style=flat-square&logo=ReactiveX&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Realm-39477F?style=flat-square&logo=Realm&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Bitrise-683D87?style=flat-square&logo=Bitrise&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=Swagger&logoColor=black"/>
+  <img src="https://img.shields.io/badge/VisualStudioCode-007ACC?style=flat-square&logo=VisualStudioCode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=Jira&logoColor=white"/>
+</p>
+<p>
+  <img src="https://img.shields.io/badge/Jenkins-024939?style=flat-square&logo=Jenkins&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bamboo-0052CC?style=flat-square&logo=Bamboo&logoColor=white"/>
+  <img src="https://img.shields.io/badge/RobotFramework-000000?style=flat-square&logo=RobotFramework&logoColor=white"/>
+  
 </p>
